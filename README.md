@@ -10,10 +10,10 @@ In many image domains using multilevel gigapixel images, each image level may re
 
 The code was built using the following Python packages:
 
-python==3.6.7
-numpy==1.18.5
-opencv-python==4.4.0.42
-scikit-image==0.17.2
+python==3.6.7  
+numpy==1.18.5  
+opencv-python==4.4.0.42 
+scikit-image==0.17.2  
 scipy==1.4.1
 pyvips==2.1.12
 
