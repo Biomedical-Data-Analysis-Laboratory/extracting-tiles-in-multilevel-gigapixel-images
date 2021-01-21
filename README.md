@@ -25,4 +25,7 @@ pyvips==2.1.12
 TBA
 
 ### How to cite our work
+The code is released free of charge as open-source software under the GPL-3.0 License. Please cite our paper when you have used it in your study.
+```
 TBA
+```
