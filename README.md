@@ -16,7 +16,7 @@ numpy==1.18.5
 opencv-python==4.4.0.42  
 scikit-image==0.17.2  
 scipy==1.4.1  
-pyvips==2.1.12	
+pyvips==2.1.12  
 opencv-python==4.1.0.25
 
 ### Link to paper
