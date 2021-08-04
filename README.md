@@ -25,5 +25,11 @@ TBA
 ### How to cite our work
 The code is released free of charge as open-source software under the GPL-3.0 License. Please cite our paper if you use it in your research.
 ```
-R. Wetteland, K. Engan, and T. Eftestøl, “Parameterized extraction of tiles in multilevel gigapixel images,” Accepted for publication, 12th International Symposium on Image and Signal Processing and Analysis (ISPA 2021). IEEE, 2021.
+@inproceedings{wetteland2021parameterized,
+	title={Parameterized extraction of tiles in multilevel gigapixel images},
+	author={Rune Wetteland and Kjersti Engan and Trygve Eftestøl},
+	booktitle={Accepted for publication, 12th International Symposium on Image and Signal Processing and Analysis (ISPA 2021)},
+	year={2021},
+	organization={IEEE}
+}
 ```
