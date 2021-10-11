@@ -19,16 +19,17 @@ scipy==1.4.1
 pyvips==2.1.12  
 
 ### Link to paper
-TBA
+https://ieeexplore.ieee.org/document/9552104
 
 ### How to cite our work
 The code is released free of charge as open-source software under the GPL-3.0 License. Please cite our paper if you use it in your research.
 ```
 @inproceedings{wetteland2021parameterized,
-	title={Parameterized extraction of tiles in multilevel gigapixel images},
-	author={Rune Wetteland and Kjersti Engan and Trygve Eftestøl},
-	booktitle={Accepted for publication, 12th International Symposium on Image and Signal Processing and Analysis (ISPA 2021)},
-	year={2021},
-	organization={IEEE}
+  title={Parameterized extraction of tiles in multilevel gigapixel images},
+  author={Wetteland, Rune and Engan, Kjersti and Eftestøl, Trygve},
+  booktitle={2021 12th International Symposium on Image and Signal Processing and Analysis (ISPA)},
+  pages={78--83},
+  year={2021},
+  organization={IEEE}
 }
 ```
